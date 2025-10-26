@@ -1,6 +1,6 @@
 # Lecture 5 Summary: CNN Overfitting & Regularization
 
-In [Lecture 4](summry/cnn2.md), we built the powerful **CNN architecture** (`CONV -> POOL -> FC`). Now that we have this complex model, this lecture addresses the single biggest problem we face when *training* it: **Overfitting**.
+In [Lecture 4](cnn2.md), we built the powerful **CNN architecture** (`CONV -> POOL -> FC`). Now that we have this complex model, this lecture addresses the single biggest problem we face when *training* it: **Overfitting**.
 
 The lecture covers:
 1.  **The Problem:** What is overfitting and how do we spot it?
