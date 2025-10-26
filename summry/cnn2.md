@@ -1,6 +1,7 @@
 # Lecture 4 Summary: Convolutional Neural Networks (CNN)
 
-This lecture introduces the **Convolutional Neural Network (CNN)**, the most important architecture for computer vision tasks. It explains *why* standard networks (from Lecture 3) fail with images and presents the powerful new building blocks that make CNNs so effective.
+This lecture introduces the **Convolutional Neural Network (CNN)**, the most important architecture for computer vision tasks. It explains *why* standard networks [from Lecture 3](2LossOptimizationNeural%20Networks.md)
+ fail with images and presents the powerful new building blocks that make CNNs so effective.
 
 ## 1. The Problem: Why Not Use a Standard Network?
 
