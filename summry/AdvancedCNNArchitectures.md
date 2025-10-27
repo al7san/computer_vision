@@ -22,6 +22,10 @@ This journey goes from the "pioneer" (LeNet) to the "breakthrough" (AlexNet) and
 
 ## 2. AlexNet (The Breakthrough, 2012)
 
+<p align="center">
+<img src="../img/alexNet.png" width="500px">
+</p>
+
 * **Who:** Alex Krizhevsky, Ilya Sutskever, & Geoffrey Hinton.
 * **What it did:** It **won the 2012 ImageNet (ILSVRC) competition** by a massive margin, kickstarting the modern "deep learning" revolution. It proved that deep CNNs could easily outperform all traditional computer vision methods.
 * **Key Innovations:** It was essentially a *bigger, deeper* LeNet that used three crucial new techniques:
@@ -34,6 +38,10 @@ This journey goes from the "pioneer" (LeNet) to the "breakthrough" (AlexNet) and
 ---
 
 ## 3. VGGNet (Simplicity and Depth, 2014)
+
+<p align="center">
+<img src="../img/vggNet.png" width="500px">
+</p>
 
 * **Who:** VGG (Visual Geometry Group) at Oxford.
 * **What it did:** Proved that **"deeper is better"** by building a network 16-19 layers deep.
