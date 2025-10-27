@@ -67,6 +67,14 @@ This journey goes from the "pioneer" (LeNet) to the "breakthrough" (AlexNet) and
 
 
 
+<p align="center">
+<img src="../img/DifferentCNNvsInception.jpeg" width="500px">
+</p
+
+<p align="center">
+<img src="../img/Inception.jpeg" width="500px">
+</p
+
 ---
 
 ## 5. ResNet (Solving the Ultra-Deep, 2015)
