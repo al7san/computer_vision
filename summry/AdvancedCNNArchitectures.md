@@ -33,6 +33,9 @@ This journey goes from the "pioneer" (LeNet) to the "breakthrough" (AlexNet) and
     2.  **Dropout:** Used `Dropout` layers to prevent the massive network from **overfitting**.
     3.  **GPU Training:** It was the first large-scale model trained on **GPUs**, which made training a network this large *feasible* for the first time.
 
+<p align="center">
+<img src="../img/alexNetTech.jpeg" width="500px">
+</p>
 
 
 ---
