@@ -1,6 +1,6 @@
 # Lecture 6 Summary: Building and Tuning CNNs
 
-After building the CNN **Architecture** [Lec 4](cnn2.md) and learning how to fight **Overfitting** (Lec 5), this lecture provides a practical, step-by-step **Roadmap** 🛠️ for building a successful deep learning project from start to finish.
+After building the CNN **Architecture** [Lec 4](cnn2.md) and learning how to fight **Overfitting** [Lec 5](CNN_Overfitting_Regularization.md), this lecture provides a practical, step-by-step **Roadmap** 🛠️ for building a successful deep learning project from start to finish.
 
 **The Project Roadmap:**
 `Metrics -> Baseline -> Evaluation -> Tuning -> Regularization`
@@ -90,4 +90,4 @@ Once we diagnose a problem (like Overfitting in Graph A), we "tune" the "hyperpa
 
 ## 5. Regularization
 
-After *tuning* all the above, if the model is *still* overfitting, we apply the strong **Regularization** techniques from Lecture 5 (e.g., **Dropout** and **L2 Regularization**) to solve it.
+After *tuning* all the above, if the model is *still* overfitting, we apply the strong **Regularization** techniques from [Lecture 5](CNN_Overfitting_Regularization.md) (e.g., **Dropout** and **L2 Regularization**) to solve it.
