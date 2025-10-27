@@ -7,6 +7,9 @@ This journey goes from the "pioneer" (LeNet) to the "breakthrough" (AlexNet) and
 ---
 
 ## 1. LeNet-5 (The Pioneer, 1998)
+<p align="center">
+<img src="../img/leNet.png" width="500px">
+</p>
 
 * **Who:** Yann LeCun.
 * **What it did:** The "grandfather" of CNNs. It was the first widely successful application of the core CNN concepts.
